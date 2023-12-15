@@ -80,8 +80,8 @@ body {
   justify-content: center;
   align-items: center;
   margin: 0px auto;
-  flex-flow: row wrap;
-  flex-grow: 10px 50px;
+  /* flex-flow: row wrap; */
+  /* flex-grow: 10px 50px; */
 }
 
 .card {
